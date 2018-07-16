@@ -234,7 +234,7 @@
     %------------------------------------------------
     \profilesection{About Me}{3cm}
         
-    \text{Recent Computer Science graduate with extensive knowledge of Object-Oriented Programming and application architecture. Proficient in multiple programming languages and expert understanding of web services, network protocols, and algorithms. A quick learner and natural problem solver with strong interpersonal skills. Seeking to learn and grow while working in a fun and exciting team environment.} 
+    \text{Recent Computer Science graduate with working knowledge of Python, Java, and JS. A hard worker who is always working to expand his skill-set and knowledge of the trade. A quick learner and natural problem solver with strong interpersonal skills. Seeking to learn and grow while working in a fun and exciting team environment.} 
         
         
     
