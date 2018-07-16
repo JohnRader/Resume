@@ -252,19 +252,19 @@
 	{\large \textcolor{pblue}{Programming}} \newline
 	
 	\textbf{Proficient:} \newline
-	\text{Python - Java - JavaScript} \newline
+	\text{Python | Java | JavaScript} \newline
 	
 	\newline
 	
 	\textbf{Prior Experience:} \newline
-	\text{C# - C++ - LaTex - HTML5} \newline
-	\text{PHP - Swift - BASH - PowerShell} \newline
+	\text{C# | C++ | LaTex | HTML5/CSS} \newline
+	\text{PHP | Swift | BASH | PowerShell} \newline
 	
 	\newline
 	 
 	\textbf{Frameworks/Tools:} \newline
-	\text{React/Node.js - Git - MATLAB}\newline
-	\text{SciPy - NumPy}
+	\text{Vue | React/Node.js | Git | MATLAB}\newline
+	\text{SciPy | NumPy}
 
 		 
          
